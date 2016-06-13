@@ -1,0 +1,19 @@
+{
+  "name": "react-express-store",
+  "version": "1.0.0",
+  "description": "Exercise in a React and Express web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lselbeck/ReactExpressStore.git"
+  },
+  "author": "Luke Selbeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lselbeck/ReactExpressStore/issues"
+  },
+  "homepage": "https://github.com/lselbeck/ReactExpressStore#readme"
+}
