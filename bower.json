@@ -1,0 +1,17 @@
+{
+  "name": "react-express-store",
+  "description": "Exercise in a React and Express web app",
+  "main": "index.js",
+  "authors": [
+    "Luke Selbeck"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lselbeck/ReactExpressStore",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
